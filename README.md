@@ -104,6 +104,13 @@ In order to have spliendid generated release notes, we reccomend to follow these
 
 ## Installation
 
+Install `github-release-notes` via yarn:
+
+```shell
+yarn global add github-release-notes
+cd && alias gren="~/node_modules/github-release-notes/bin/gren.js" && funcsave gren
+```
+
 Install `github-release-notes` via npm:
 
 ```shell
